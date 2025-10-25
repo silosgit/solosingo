@@ -1,0 +1,36 @@
+Privacy Policy for Meezat
+Last Updated: October 25, 2025
+
+Meezat (“we”, “us”, or “our”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect information when you use the Meezat mobile application (the “App”).
+
+Information Collection and Use
+
+No personal information required: You do not need to provide personal information to use the App.
+
+Automatic data: We may collect non-identifiable technical data such as device type, operating system, and app usage to improve functionality and performance.
+
+Messaging: All messages sent through Meezat are private. We do not store messages on our servers permanently. If a user deletes a conversation, it is deleted from both sides.
+
+User Privacy
+
+Data not shared: We do not sell, share, or disclose your personal information or messages to any third parties.
+
+Account deletion: Users can delete their accounts at any time. When an account is deleted, all user-related data is permanently removed.
+
+Message deletion: Deleting a message or conversation removes it entirely from our servers, ensuring privacy.
+
+Security
+
+We take reasonable measures to protect your data from unauthorized access, disclosure, alteration, or destruction. However, no method of electronic transmission or storage is completely secure.
+
+Children’s Privacy
+
+The App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe your child has provided us with personal information, please contact us immediately.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy occasionally. Users are encouraged to review this page periodically. Significant changes will be communicated by updating this policy in the App.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at: lingoroj@gmail.com
