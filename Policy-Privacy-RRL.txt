@@ -1,0 +1,71 @@
+# Privacy Policy for Random Repeat Learning
+
+**Last updated:** September 10, 2026
+
+This Privacy Policy describes how the Random Repeat Learning app ("the App") handles information when you use it.
+
+## Overview
+
+Random Repeat Learning is a study and learning tool that helps you organize study items and review them in random order to improve memory retention. We built this app with privacy in mind — most of your data stays on your own device.
+
+## Information We Access
+
+### Microphone / Audio
+The App may request access to your device's microphone to let you record or input audio as part of your study items. Audio you record is processed and stored **locally on your device only**. We do not upload, transmit, or share your audio recordings with us or any third party.
+
+### Files You Select
+The App may let you select files (such as text or documents) using your device's built-in file picker. We only access the specific file you choose to open or import — the App does not scan, browse, or access any other files or folders on your device. Selected file content is used only to create or update your study items and is stored locally on your device.
+
+## Advertising
+
+The App displays ads served by **Google AdMob**. AdMob may collect and process certain information to serve ads, including:
+- Advertising identifiers (such as your device's Google Advertising ID)
+- Device information (device type, operating system, general location such as country/region)
+- Ad interaction data (impressions, clicks)
+
+Depending on your settings, ads may be personalized or non-personalized. You can control ad personalization through your device's ad settings (e.g. **Settings > Google > Ads** on Android, or **opt out of Ads Personalization**).
+
+AdMob's data collection and use is governed by Google's own policies. You can review Google's Privacy Policy at https://policies.google.com/privacy and how Google uses data from partner apps at https://policies.google.com/technologies/partner-sites.
+
+## Information We Do NOT Currently Collect
+
+At this time, we do not collect, store, or transmit:
+- Personal identifying information (name, email, phone number)
+- Location data (beyond general region info AdMob may use for ads)
+- Contacts
+
+## Data Storage
+
+Currently, your study items, audio recordings, and imported file content are stored **locally on your device**. We do not currently operate a backend server that receives or stores this content.
+
+**Planned change:** In a future update, the App may send some of this data (such as study items or file content) to a backend server to support new features (for example, syncing across devices). If and when this happens, we will update this Privacy Policy and the app's Data Safety disclosures on the Play Store **before** the feature is released, so you can review what changes.
+
+## Data Sharing
+
+Other than the advertising data described above (shared with Google AdMob to serve ads), we do not sell, rent, or share your data with third parties.
+
+## Children's Privacy
+
+The App does not knowingly collect personal information from children. Since the App does not collect personal data from any user, this applies equally to users of all ages.
+
+## Permissions Summary
+
+| Permission | Purpose | Data Leaves Device? |
+|---|---|---|
+| Microphone | Record audio for study items | No |
+| File selection (via system picker) | Import file content into study items | No |
+| Internet (for ads) | Serve ads via Google AdMob | Yes — advertising ID and related data goes to Google AdMob |
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last updated" date.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+**lingoroj@gmail.com**
+
+---
+
+*This policy applies to the Random Repeat Learning app only.*
